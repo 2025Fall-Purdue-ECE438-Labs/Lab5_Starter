@@ -12,9 +12,7 @@
 
 2. Lab instructions can be found in [`lab5_instructions.pdf`](lab5_instructions.pdf).
 
-3. Complete the individual lab report `lab5_individual_report.ipynb`.
-
-4. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab5_final_report.ipynb`.
+3. Complete the individual lab report `lab5_report.ipynb`
 
 ## Submission
 
